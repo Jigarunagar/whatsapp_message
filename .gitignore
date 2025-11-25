@@ -25,3 +25,4 @@ dist-ssr
 
 # / TypeScript cache
 *.session
+.wwebjs_auth
